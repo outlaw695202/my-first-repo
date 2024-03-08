@@ -1,30 +1,25 @@
-# This is a large heading
+# Mohamed Amine BOUBEKRI 
+### Geography
 
-## This is a smaller heading
+I live in the city of Rabat, and i am from Errachidia it's the capital of the state Draa-Tafilalet
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+###Reading
 
-- This is
-- an unordered
-- list
+i like reading the arabic history books too much 
 
-1. This is
-2. an ordered
-3. list
+1. War history
+2. Kings autobiography
+3. Resistance history
+### Food
 
-Here is `some code` in the middle of a sentence.
+i love eating healthy meals but if it's the case i eat everything 
 
-```
-This is
-a block
-of code
-```
+-meat
+-vegetables
+-fruits(i prefer juices)
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact 
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+you can find me on my facebook account with the same name of my account on github
 
-nano README.md
+
